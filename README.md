@@ -15,7 +15,7 @@ Currently seeking a professional role as a **Penetration Tester** or **Vulnerabi
 
 ---
 
-## 💻 Technologies & Skills
+
 
 ## 💻 Technologies & Skills
 
