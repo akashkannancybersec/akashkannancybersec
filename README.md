@@ -75,7 +75,7 @@ Currently seeking a professional role as a **Penetration Tester** or **Vulnerabi
 | **Email Header Analysis** | Analyzes email headers (.eml) both online and offline |
 | **EchoThreat** | Checks the target using CVE vulnerabilities |
 
-![Project GIF](https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif)  
+![Hacker GIF](https://media.giphy.com/media/3o7aD4VhM57Vz7iW7a/giphy.gif)   
 
 ---
 
