@@ -49,6 +49,7 @@ Currently seeking a professional role as a **Penetration Tester** or **Vulnerabi
 - Uncovered 8+ security flaws, improving overall security posture by 15%.
 
 ---
+![CERTIF GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdxbzZrNm40aGl3ZDJjaHZhMzl4N240aTE5ZHVhaWxlMGZ2MHBweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P5fyZpX1jufGjKUo4s/giphy.gif)
 
 ## 📜 Certifications
 - Certified Penetration Testing Professional (CPENT) – EC-Council (In Progress)  
@@ -88,13 +89,11 @@ Currently seeking a professional role as a **Penetration Tester** or **Vulnerabi
 ---
 
 ## 🎯 Extra-Curricular Activities
-- Organized and led **Capture The Flag (CTF)** cybersecurity events  
+- Organized and led **Capture The Flag (CTF)** cybersecurity events
+- 
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashkannan755&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkannan755&layout=compact&theme=radical)  
 
 ---
 
