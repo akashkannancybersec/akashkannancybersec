@@ -17,20 +17,95 @@ Currently seeking a professional role as a **Penetration Tester** or **Vulnerabi
 
 ## 💻 Technologies & Skills
 
+## 💻 Technologies & Skills
+
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### Tools & Technical Skills
-![Nmap](https://img.shields.io/badge/-Nmap-CC0000?style=flat&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-6A1B9A?style=flat)
-![Burp Suite](https://img.shields.io/badge/-BurpSuite-FF5722?style=flat)
-![Wireshark](https://img.shields.io/badge/-Wireshark-0078D7?style=flat)
-![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-FF7F00?style=flat)
-![Nessus](https://img.shields.io/badge/-Nessus-8B0000?style=flat)
-![Nikto](https://img.shields.io/badge/-Nikto-00AEEF?style=flat)
+---
+
+### 🔍 Information Gathering & Scanning
+![Nmap](https://img.shields.io/badge/Nmap-CC0000?style=flat&logo=nmap&logoColor=white)
+![TCPDump](https://img.shields.io/badge/TCPDump-0088CC?style=flat) 
+![Wireshark](https://img.shields.io/badge/Wireshark-0078D7?style=flat&logo=wireshark&logoColor=white)
+![Netstat](https://img.shields.io/badge/Netstat-4CAF50?style=flat)
+![Gobuster](https://img.shields.io/badge/Gobuster-FF6F61?style=flat)
+![Nikto](https://img.shields.io/badge/Nikto-FF9900?style=flat)
+![Amass](https://img.shields.io/badge/Amass-6A0DAD?style=flat)
+![theHarvester](https://img.shields.io/badge/theHarvester-FF0000?style=flat)
+![DNSenum](https://img.shields.io/badge/DNSenum-00AEEF?style=flat)
+![Shodan](https://img.shields.io/badge/Shodan-001F54?style=flat&logo=shodan&logoColor=white)
+
+---
+
+### 🔐 Password Attacks & Credential Access
+![Hydra](https://img.shields.io/badge/Hydra-FF4500?style=flat)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=flat)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-008080?style=flat)
+![SMBClient](https://img.shields.io/badge/SMBClient-DAA520?style=flat)
+![Impacket](https://img.shields.io/badge/Impacket-FF1493?style=flat)
+
+---
+
+### 🧠 Exploitation & Post-Exploitation
+![Metasploit](https://img.shields.io/badge/Metasploit-6A1B9A?style=flat)
+![PwnKit](https://img.shields.io/badge/PwnKit-FF6347?style=flat)
+![Site Editor](https://img.shields.io/badge/Site_Editor-4682B4?style=flat)
+![ShellShock](https://img.shields.io/badge/ShellShock-DC143C?style=flat)
+![Plink](https://img.shields.io/badge/Plink-8B0000?style=flat)
+![Evil-WinRM](https://img.shields.io/badge/Evil-WinRM-2E8B57?style=flat)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-4B0082?style=flat)
+![Impacket tools](https://img.shields.io/badge/Impacket_tools-FF69B4?style=flat)
+
+---
+
+### 🏗️ Binary Exploitation & Reverse Engineering
+![GDB](https://img.shields.io/badge/GDB-000000?style=flat&logo=gnu&logoColor=white)
+![Immunity Debugger](https://img.shields.io/badge/Immunity_Debugger-FF4500?style=flat)
+![Pwntools](https://img.shields.io/badge/Pwntools-00008B?style=flat)
+![Binwalk](https://img.shields.io/badge/Binwalk-FF8C00?style=flat)
+![Firmadyne](https://img.shields.io/badge/Firmadyne-800080?style=flat)
+
+---
+
+### 🖥️ Web Application Security
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5722?style=flat)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF7F00?style=flat)
+![WPSCAN](https://img.shields.io/badge/WPSCAN-000000?style=flat)
+![SQLMap](https://img.shields.io/badge/SQLMap-008000?style=flat)
+
+---
+
+### 🏛️ Active Directory (AD) Attacks
+![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=flat)
+![PowerView](https://img.shields.io/badge/PowerView-1E90FF?style=flat)
+![Impacket](https://img.shields.io/badge/Impacket-FF1493?style=flat)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-008080?style=flat)
+![linPEAS](https://img.shields.io/badge/linPEAS-FFD700?style=flat)
+![Rubeus](https://img.shields.io/badge/Rubeus-4B0082?style=flat)
+![ASREPRoast](https://img.shields.io/badge/ASREPRoast-FF4500?style=flat)
+![SharpHound](https://img.shields.io/badge/SharpHound-8B0000?style=flat)
+![Kerbrute](https://img.shields.io/badge/Kerbrute-2E8B57?style=flat)
+
+---
+
+### 🌐 Network Access & Tunneling
+![RDPDesktop](https://img.shields.io/badge/RDPDesktop-4682B4?style=flat)
+![ProxyChains](https://img.shields.io/badge/ProxyChains-800080?style=flat)
+![Chisel](https://img.shields.io/badge/Chisel-FF4500?style=flat)
+![Ngrok](https://img.shields.io/badge/Ngrok-00CED1?style=flat)
+![Socat](https://img.shields.io/badge/Socat-DAA520?style=flat)
+
+---
+
+### 🧪 Privilege Escalation
+![WinPEAS](https://img.shields.io/badge/WinPEAS-FF0000?style=flat)
+![GTFOBins](https://img.shields.io/badge/GTFOBins-1E90FF?style=flat)
+![BeRoot](https://img.shields.io/badge/BeRoot-FFD700?style=flat)
+
 
 **Other Skills:** Ethical Hacking | Vulnerability Assessment | Penetration Testing | Linux | Networking  
 
